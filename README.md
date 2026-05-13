@@ -1,7 +1,7 @@
 A deep learning–based multimodal biometric authentication system using Face, Fingerprint, and Palmprint recognition with Transformer-based feature fusion.
 
 🚀 Features
-Face recognition using ArcFace + ResNet-50
+Face recognition using ArcFace + ResNet-50(RestNet-18 both tested)
 Fingerprint & Palmprint verification using Siamese CNNs
 Transformer-based feature-level fusion
 High authentication accuracy
@@ -27,7 +27,6 @@ Extract embeddings using deep learning models
 Fuse features using Transformer attention
 Perform cosine similarity verification
 
-	​
 📂 Dataset
 500 users
 Face, Fingerprint, and Palmprint datasets
